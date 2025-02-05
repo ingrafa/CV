@@ -1,0 +1,96 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #1a1a1a;
+    color: #e6e6e6;
+}
+
+header {
+    background-color: #1f1f1f;
+    color: #e6e6e6;
+    padding: 1em 0;
+    text-align: center;
+    border-bottom: 2px solid #ff1b1b;
+}
+
+nav a {
+    margin: 0 1em;
+    color: #ff1b1b;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+nav a:hover {
+    color: #e6e6e6;
+}
+
+section {
+    padding: 2em;
+    margin: 1em auto;
+    max-width: 800px;
+    background-color: #2a2a2a;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(255, 27, 27, 0.5);
+}
+
+h2 {
+    color: #ff1b1b;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    background: #333;
+    margin: 0.5em 0;
+    padding: 0.5em;
+    border-radius: 4px;
+    border-left: 4px solid #ff1b1b;
+}
+
+.project {
+    margin-bottom: 1em;
+}
+
+.project-details {
+    display: none;
+    margin-top: 0.5em;
+    animation: fadeIn 0.5s ease-in-out;
+}
+
+button {
+    background-color: #ff1b1b;
+    color: white;
+    border: none;
+    padding: 0.5em 1em;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+button:hover {
+    background-color: #e60000;
+    transform: scale(1.05);
+}
+
+a {
+    color: #ff1b1b;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Animations */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
