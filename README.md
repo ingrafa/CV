@@ -1,4 +1,5 @@
 # 👋 ¡Hola! Soy @ingrafa
+https://ingrafa.github.io/CV/
 
 ## Sobre Mí
 Soy un desarrollador de software apasionado por la tecnología y la innovación. Tengo experiencia en diversas áreas de desarrollo y un fuerte interés en la inteligencia artificial y la ciencia de datos.
