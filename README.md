@@ -221,7 +221,7 @@ Soy un desarrollador de software apasionado por la tecnología y la innovación.
 - **Ejemplos en la Vida Real**: Creación de recorridos virtuales para bienes raíces, desarrollo de simulaciones interactivas para entrenamiento educativo.
 
 ## Contacto
-- 📫 WhatsApp: https://walink.co/72df52
+- 📫 WhatsApp: https://api.whatsapp.com/send?phone=17632748761&text=Hi%2C%20Bro.%F0%9F%91%80
 
 <!---
 ingrafa/ingrafa es un repositorio ✨ especial ✨ porque su `README.md` (este archivo) aparece en tu perfil de GitHub.
